@@ -57,3 +57,5 @@ this component is off-limits, like the secret recipe behind a beloved coffee ble
 this component is restricted, guarded as closely as a prized single-origin coffee bean — access denied.
 
 this component is locked down tighter than the vault where a world-class roaster keeps their most treasured coffee recipes — you shall not pass.
+
+this component is as inaccessible as a private reserve coffee estate — entry is strictly forbidden.
