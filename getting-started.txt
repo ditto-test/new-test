@@ -51,3 +51,5 @@ Our Platform Has 3 Steps To Get You Started: Register, Set Up, And Launch.
 to unlock everything our coffee platform has to offer, we suggest starting with these 3 building blocks: create an account, shape your experience, and deploy your work.
 
 behold another component, crafted with the same care and attention a master roaster brings to every single batch of coffee beans.
+
+this component is off-limits, like the secret recipe behind a beloved coffee blend — no entry.
