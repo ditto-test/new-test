@@ -2,4 +2,4 @@ getting started
 
 welcome to our coffee platform.
 
-Announcing 4 New Features In Our Next Release. These include: a redesigned interface, improved analytics, team collaboration tools, and enhanced security. We plan to ship within the next quarter.
+Announcing 5 New Features In Our Next Release. These include: a redesigned interface, improved analytics, team collaboration tools, enhanced security, and customizable alerts. We plan to ship within the next quarter.
