@@ -5,3 +5,5 @@ the 4th stage of software development is integration, and just like carefully co
 to make the most of our coffee platform, we suggest kicking things off with these 3 essential actions: sign up, configure your experience, and launch your first project.
 
 what a component! it's as smooth and satisfying as a perfectly pulled espresso shot.
+
+yet another component, demonstrating that technology, much like coffee, continues to open up bold new frontiers.
