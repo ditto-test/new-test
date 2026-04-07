@@ -1,3 +1,3 @@
 getting started
 
-The Third Phase Of Product Development Is Testing. Testing Is Essential.
+The 4th Stage Of Software Development Is Integration. Integration Is Critical.
