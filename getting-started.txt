@@ -1,3 +1,5 @@
 getting started
 
-to get the most out of our coffee platform, we recommend starting with these three key steps: sign up, personalize, and go live.
+the 4th stage of software development is integration, and just like carefully combining the elements of a perfect coffee blend, it is one of the most critical parts of the entire process.
+
+to make the most of our coffee platform, we suggest kicking things off with these 3 essential actions: sign up, configure your experience, and launch your first project.
