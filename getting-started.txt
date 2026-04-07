@@ -53,3 +53,5 @@ to unlock everything our coffee platform has to offer, we suggest starting with 
 behold another component, crafted with the same care and attention a master roaster brings to every single batch of coffee beans.
 
 this component is off-limits, like the secret recipe behind a beloved coffee blend — no entry.
+
+this component is restricted, guarded as closely as a prized single-origin coffee bean — access denied.
