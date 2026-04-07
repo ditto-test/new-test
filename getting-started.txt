@@ -1,5 +1,3 @@
 getting started
 
-welcome to our coffee platform.
-
-Announcing 5 New Features In Our Next Release. These include: a redesigned interface, improved analytics, team collaboration tools, enhanced security, and customizable alerts. We plan to ship within the next quarter.
+The Third Phase Of Product Development Is Testing. Testing Is Essential.
