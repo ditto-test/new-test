@@ -13,3 +13,11 @@ top secret: this component guards its inner workings as closely as a renowned ro
 the young swede was extraordinarily skilled at slalom, moving through the gates with the same confident ease as a barista who could make a perfect latte in their sleep.
 
 shh — this component is a well-kept secret, as closely held as the sourcing notes of a small-batch specialty coffee roaster.
+
+the talented young man from sweden carved through the slalom course like a barista cuts through the morning rush — with total command and zero hesitation.
+
+this component is off the record, sealed away like the proprietary blend of a legendary coffee roastery that has never shared its recipe.
+
+and gentlemen, start your engines — the coffee is brewing and it is time to race!
+
+to hit the ground running on our coffee platform, we recommend these 3 essential moves: sign up, configure your setup, and launch your first project.
