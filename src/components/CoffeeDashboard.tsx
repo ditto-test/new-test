@@ -25,6 +25,9 @@ export default function CoffeeDashboard() {
          <p>
 	  {"introing 5 new features for a richer, brighter coffee platform experience."}
         </p>
+          <p>
+	  {"your intro to 5 new features of a richer coffee platform experience..."}
+        </p>
       </section>
 
       <section className="brew-guide">
