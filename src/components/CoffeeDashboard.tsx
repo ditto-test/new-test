@@ -22,6 +22,9 @@ export default function CoffeeDashboard() {
         <p>
           {"smooth and balanced, with notes of crisp fruit and dark chocolate — roasted in small batches."}
         </p>
+         <p>
+	  {"introing 5 new features for a richer, brighter coffee platform experience."}
+        </p>
       </section>
 
       <section className="brew-guide">
