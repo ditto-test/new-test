@@ -48,7 +48,10 @@ export default function CoffeeDashboard() {
 	<p>
 	  {"please be secretive about this. it's a secret of the steel mill industry."}
 	</p>
-      </footer>
+      	<p>
+	  {"please don't tell anyone about this! it's a secret of the steel mill industry."}
+	</p>
+ </footer>
     </div>
   );
 }
