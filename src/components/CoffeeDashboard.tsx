@@ -18,7 +18,7 @@ export default function CoffeeDashboard() {
       </section>
 
       <section className="roast-spotlight">
-        <h2>{"Roast of the Week"}</h2>
+        <h2>{"roast of the week$"}</h2>
         <p>
           {"smooth and balanced, with notes of crisp fruit and dark chocolate — roasted in small batches."}
         </p>
@@ -61,6 +61,7 @@ export default function CoffeeDashboard() {
 	  {"please be secretive about this. it's a secret of the steel mill industry."}
 	</p>
       	<p>
+          
 	  {"please don't tell anyone about this! it's a secret of the steel mill industry."}
 	</p>
  </footer>
