@@ -37,6 +37,18 @@ export default function CoffeeDashboard() {
         </p>
       </section>
 
+      <section className="order-actions">
+        <h2>{"Ready to brew?"}</h2>
+        <button>{"Make a selection"}</button>
+        <button>{"Place an order"}</button>
+        <button>{"Make a purchase"}</button>
+        <button>{"Submit a request"}</button>
+        <button>{"Make a reservation"}</button>
+        <button>{"Give a rating"}</button>
+        <button>{"Provide a review"}</button>
+        <button>{"Make a payment"}</button>
+      </section>
+
       <footer className="dashboard-footer">
         <p>{"Check Out the Newest Home Goods and Lifestyle Picks"}</p>
         <small>
