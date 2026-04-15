@@ -50,7 +50,7 @@ export default function CoffeeDashboard() {
       </section>
 
       <footer className="dashboard-footer">
-        <p>{"Check Out the Newest Home Goods and Lifestyle Picks"}</p>
+        <p>{"check out the newest home goods and lifestyle picks$"}</p>
         <small>
           {"welcome to a global network of people who believe coffee is worth every extra minute."}
         </small>
