@@ -103,6 +103,10 @@ export default function StringMixTestPage() {
         <a href={ROUTE} className="random-link">
           random link!!
         </a>
+
+      <a href={ROUTE} className="new-random-link">
+          A NEW random link!!
+        </a>
       
 
       <footer className="page-footer">
