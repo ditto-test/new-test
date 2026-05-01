@@ -104,7 +104,7 @@ export default function StringMixTestPage() {
 
         
         <a href={ROUTE} className="settings-link">
-          Go to settings!!
+          Go,  to settings!!
         </a>
       </footer>
     </main>
