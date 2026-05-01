@@ -96,6 +96,11 @@ export default function StringMixTestPage() {
           Need help? Reach out to support and we will get back to you within
           one business day.
         </p>
+
+
+
+
+        
         <a href={ROUTE} className="settings-link">
           Go to settings
         </a>
