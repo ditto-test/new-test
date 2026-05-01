@@ -99,6 +99,12 @@ export default function StringMixTestPage() {
         ))}
       </section>
 
+
+        <a href={ROUTE} className="random-link">
+          random link!!
+        </a>
+      
+
       <footer className="page-footer">
         <a href={ROUTE} className="settings-link">
           Go to settings
