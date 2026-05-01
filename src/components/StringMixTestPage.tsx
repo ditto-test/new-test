@@ -52,6 +52,9 @@ export default function StringMixTestPage() {
         <p>{"Here is some text that is meant to be very similar to something else."}</p>
       </section>
 
+
+
+      
       <section className="form-section">
         <label htmlFor="email-input">Your email address</label>
         <input
