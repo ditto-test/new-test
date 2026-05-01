@@ -78,6 +78,11 @@ export default function StringMixTestPage() {
         </p>
       </section>
 
+      <section className="some-state">
+        <h3>{"Idk if transactions yet"}</h3>
+        <p>{"maybe some type of transaction idk"}</p>
+      </section>
+
       <section className="empty-state">
         <h3>{"No transactions yet"}</h3>
         <p>{"When you complete your first transaction, it will show up right here."}</p>
