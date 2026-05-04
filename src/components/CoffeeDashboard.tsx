@@ -63,6 +63,7 @@ export default function CoffeeDashboard() {
       	<p>
           
 	  {"shhh, be very secretive, this is a secret of the steel mill industry."}
+	  {"shhh, be very secretive, this is a MAJOR secret! of the steel mill industry."}
 	</p>
  </footer>
     </div>
