@@ -47,6 +47,7 @@ export default function CoffeeDashboard() {
         <button>{"Give a rating"}</button>
         <button>{"Provide a review"}</button>
         <button>{"Make a payment"}</button>
+		<button>{"hmm super weird"}</button>
       </section>
 
       <footer className="dashboard-footer">
