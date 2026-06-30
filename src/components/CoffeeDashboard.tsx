@@ -6,7 +6,7 @@ export default function CoffeeDashboard() {
       <section className="welcome-banner">
         <h1>{"introducing 5 new features for a richer coffee platform experience."}</h1>
         <p className="subtitle">
-          {"every sip starts with a story — discover yours here."}
+          {"every sip starts with a story. discover yours here."}
         </p>
       </section>
 
