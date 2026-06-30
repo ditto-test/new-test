@@ -11,7 +11,7 @@ export default function CoffeeDashboard() {
       </section>
 
       <section className="getting-started">
-        <h2>{"getting kicked off"}</h2>
+        <h2>{"getting kicked on the highway."}</h2>
         <p>
           {"to optimize your engagement with our fantastic coffee platform, we strongly advise you to initiate with these 3 core actions that are very, very important and critical to your success: register, customize, and launch your coffee-related endeavors!"}
         </p>
@@ -20,10 +20,10 @@ export default function CoffeeDashboard() {
       <section className="roast-spotlight">
         <h2>{"roast of the week$"}</h2>
         <p>
-          {"smooth and balanced, with notes of crisp fruit and dark chocolate — roasted in small batches."}
+          {"smooth and balanced, with notes of crisp fruit and dark chocolate."}
         </p>
          <p>
-	  {"introing 5 new features for a richer, brighter coffee platform experience."}
+	  {"introducing 5 new features for a richer, brighter platform experience."}
         </p>
           <p>
 	  {"your intro to 5 new features of a richer coffee platform experience..."}
@@ -45,12 +45,12 @@ export default function CoffeeDashboard() {
         <button>{"Submit a request"}</button>
         <button>{"Make a reservation"}</button>
         <button>{"Give a rating"}</button>
-        <button>{"Provide a review"}</button>
+        <button>{"Provide a review!!!!"}</button>
         <button>{"Make a payment"}</button>
       </section>
 
       <footer className="dashboard-footer">
-        <p>{"check out the newest home goods and lifestyle picks$"}</p>
+        <p>{"check out the newest home goods and lifestyle picks!"}</p>
         <small>
           {"welcome to a global network"}
         </small>
