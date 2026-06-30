@@ -23,7 +23,7 @@ export default function CoffeeDashboard() {
           {"smooth and balanced, with notes of crisp fruit and dark chocolate."}
         </p>
          <p>
-	  {"introing 5 new features for a richer, brighter coffee platform experience."}
+	  {"introducing 5 new features for a richer, brighter platform experience."}
         </p>
           <p>
 	  {"your intro to 5 new features of a richer coffee platform experience..."}
@@ -45,7 +45,7 @@ export default function CoffeeDashboard() {
         <button>{"Submit a request"}</button>
         <button>{"Make a reservation"}</button>
         <button>{"Give a rating"}</button>
-        <button>{"Provide a review"}</button>
+        <button>{"Provide a review!!!!"}</button>
         <button>{"Make a payment"}</button>
       </section>
 
