@@ -31,7 +31,7 @@ export default function CoffeeDashboard() {
       </section>
 
       <section className="brew-guide">
-        <h2>{"your guide to the galaxy"}</h2>
+        <h2>{"your guide to the galaxy, hitchhiker"}</h2>
         <p>
           {"the best cup comes from the farmer's market"}
         </p>
