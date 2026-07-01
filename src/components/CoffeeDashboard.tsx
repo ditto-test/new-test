@@ -4,6 +4,7 @@ export default function CoffeeDashboard() {
   return (
     <div className="coffee-dashboard">
       <section className="welcome-banner">
+		  {"here's to fitness."}
         <h1>{"introducing 5 new features for a richer coffee platform experience."}</h1>
         <p className="subtitle">
           {"every sip starts with a story. discover yours here."}
@@ -46,6 +47,7 @@ export default function CoffeeDashboard() {
       <section className="order-actions">
         <h2>{"Ready to brew?"}</h2>
         <button>{"Make a selection"}</button>
+		  {"here's to fitness."}
         <button>{"Make a purchase"}</button>
         <button>{"Make a reservation"}</button>
         <button>{"Rate this!!!!"}</button>
