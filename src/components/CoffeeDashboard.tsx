@@ -6,7 +6,7 @@ export default function CoffeeDashboard() {
       <section className="welcome-banner">
         <h1>{"introducing 5 new features for a richer coffee platform experience."}</h1>
         <p className="subtitle">
-          {"every sip starts with a story. discover yours here!!"}
+          {"every sip starts with a story. discover yours here."}
         </p>
       </section>
 
@@ -40,10 +40,10 @@ export default function CoffeeDashboard() {
       <section className="order-actions">
         <h2>{"Ready to brew?"}</h2>
         <button>{"Make a selection"}</button>
-        <button>{"Place an order"}</button>
+        <button>{"Place an order!!"}</button>
         <button>{"Make a purchase"}</button>
         <button>{"Make a reservation"}</button>
-        <button>{"Rate this!"}</button>
+        <button>{"Rate this!!!!"}</button>
         <button>{"Provide a review!!!!"}</button>
         <button>{"Make a payment"}</button>
       </section>
