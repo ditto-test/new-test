@@ -8,19 +8,25 @@ export default function CoffeeDashboard() {
         <p className="subtitle">
           {"every sip starts with a story. discover yours here."}
         </p>
+		  <p className="subtitle">
+          {"what are you doing?"}
+        </p>
+		  <p className="subtitle">
+          {"here's to fitness."}
+        </p>
       </section>
 
       <section className="getting-started">
         <h2>{"getting kicked on the highway."}</h2>
         <p>
-          {"to optimize your engagement with our fantastic coffee platform, we strongly advise you to initiate with these 3 core actions that are very, very important and critical to your success: register, customize, and launch your coffee-related endeavors!"}
+          {"to optimize your engagement with our monstrous coffee platform, we strongly advise you to initiate with these 3 core actions that are very, very important and critical to your success: register, customize, and launch your coffee-related endeavors!"}
         </p>
       </section>
 
       <section className="roast-spotlight">
         <h2>{"roast of the week$"}</h2>
         <p>
-          {"smooth and balanced, with notes of crisp fruit and dark chocolate."}
+          {"smooth and balanced, with notes of crisp fruit"}
         </p>
          <p>
 	  {"introducing 5 new features for a richer, brighter platform experience."}
@@ -40,7 +46,6 @@ export default function CoffeeDashboard() {
       <section className="order-actions">
         <h2>{"Ready to brew?"}</h2>
         <button>{"Make a selection"}</button>
-        <button>{"Place an order!!"}</button>
         <button>{"Make a purchase"}</button>
         <button>{"Make a reservation"}</button>
         <button>{"Rate this!!!!"}</button>
