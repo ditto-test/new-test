@@ -42,7 +42,6 @@ export default function CoffeeDashboard() {
         <button>{"Make a selection"}</button>
         <button>{"Place an order"}</button>
         <button>{"Make a purchase"}</button>
-        <button>{"Submit a request"}</button>
         <button>{"Make a reservation"}</button>
         <button>{"Rate this!"}</button>
         <button>{"Provide a review!!!!"}</button>
