@@ -45,7 +45,7 @@ export default function CoffeeDashboard() {
       </section>
 
       <section className="order-actions">
-        <h2>{"Ready to brew?"}</h2>
+        <h2>{"Ready to brew brother?"}</h2>
         <button>{"Make a selection"}</button>
 		  {"here's to fitness."}
         <button>{"Make a purchase"}</button>
